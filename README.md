@@ -30,7 +30,7 @@ This open-source project aims to make heraldic imagery in SVG format available t
 
 ##### Later Colors
 
-- Rose: (pink? canadian tincture, details needed)
+- Rose: pink (canadian tincture)
 - Carnation: skin-tone
 - Bleu Celeste: sky-blue
 - Cendrée: dark gray
@@ -38,6 +38,7 @@ This open-source project aims to make heraldic imagery in SVG format available t
 - Grey: light-gray, predominantely used in Germany for iron, gray, and water
 - Amaranth: (needs more details)
 - Columbine: (needs more details)
+- Orange: (needs more details)
 
 #### Stains
 
