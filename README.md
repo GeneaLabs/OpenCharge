@@ -14,7 +14,7 @@ This open-source project aims to make heraldic imagery in SVG format available t
 - Argent: silver, relates to Moon (planet), Pearl (gemstone)
 - Or: gold, relates to Sun (planet), Topaz (gemstone)
 
-##### Later Metals
+##### Non-Standard Metals
 
 - Cuivre: copper (canadian tincture, details needed)
 
@@ -28,7 +28,7 @@ This open-source project aims to make heraldic imagery in SVG format available t
 - Sable: black, sometimes references as Saturn (planet), Diamond (gemstone)
 - Vert: green, sometimes references as Venus (planet), Emerald (gemstone)
 
-##### Later Colors
+##### Non-Standard Colors
 
 - Rose: pink (canadian tincture)
 - Carnation: skin-tone
