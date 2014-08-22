@@ -6,7 +6,6 @@ This open-source project aims to make heraldic imagery in SVG format available t
 ## Heraldic Rules
 
 ### Tinctures
-*tbd*
 
 #### Metals
 
@@ -43,13 +42,16 @@ This open-source project aims to make heraldic imagery in SVG format available t
 #### Stains
 
 - Tenné: sometimes references as Dragon's Head (lunar node), Jacinth (gemstone)
-- Sanguinne or Murrey: sometimes references as Dragon's Tail (lundar node), Sardonyx (gemstone)
+- Sanguinne and Murrey: sometimes references as Dragon's Tail (lundar node), Sardonyx (gemstone)
 
 #### Furs
-*tbd*
 
-#### Patterns
-*tbd*
+- Ermine
+- Ermines
+- Vair
+- Potent
+- Kürsch
+- Plumeté
 
 ## Participating
 
