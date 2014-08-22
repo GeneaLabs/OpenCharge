@@ -48,8 +48,12 @@ This open-source project aims to make heraldic imagery in SVG format available t
 
 - Ermine
 - Ermines
+- Erminois
+- Pean
 - Vair
+- Counter-Vair
 - Potent
+- Counter-Potent
 - Kürsch
 - Plumeté
 
